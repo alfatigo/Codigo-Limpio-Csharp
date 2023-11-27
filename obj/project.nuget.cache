@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ecwwppVoHzMwAe4+ko1qSs9rIIeBBgYaww0ObWhuKECUNVzPpceJy+xXOoyuNVOR6LntZj2AurGBVoD82N0AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mucho\\Documents\\curso-codigo-limpio-csharp\\ToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mucho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mucho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mucho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mucho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
